@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "landsmp.aternos.me",
-    "port": 19105,
+    "ip": "landdomsmp.aternos.me",
+    "port": 58604,
     "version": "1.21.11",
     "try-creative": false
   },
